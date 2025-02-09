@@ -172,3 +172,5 @@ cython_debug/
 
 # local env files
 .DS_Store
+.vscode/
+Autre/
